@@ -1,0 +1,28 @@
+.panelTrendingTopics{
+
+    border-color: #000;
+    border-width: medium;
+    border-radius: 7px;
+}
+
+.glyphicon-user-trending-topics{
+
+    font-size: 60px;
+    color: #000;
+    border: 2px solid grey;
+}
+
+.linkUnderlineAll{
+
+    text-decoration: underline;
+}
+
+.customSpan {
+    display: inline-block !important;
+}
+
+.glyphicon-custom {
+
+    font-size: 25px;
+    color: #000;
+}

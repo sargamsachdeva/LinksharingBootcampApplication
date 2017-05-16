@@ -1,0 +1,4 @@
+package co
+
+class ResourceCO {
+}
